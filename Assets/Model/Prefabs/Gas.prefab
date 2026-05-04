@@ -52,6 +52,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Gas
       objectReference: {fileID: 0}
+    - target: {fileID: 8381984868952709122, guid: 9e5e4c48256dcb04dbafc0459af2da1f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d910755b1936a424f9aec30b7aa5a49a, type: 2}
+    - target: {fileID: 8381984868952709122, guid: 9e5e4c48256dcb04dbafc0459af2da1f, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d910755b1936a424f9aec30b7aa5a49a, type: 2}
+    - target: {fileID: 8381984868952709122, guid: 9e5e4c48256dcb04dbafc0459af2da1f, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d910755b1936a424f9aec30b7aa5a49a, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
