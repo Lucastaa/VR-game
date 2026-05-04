@@ -104,3 +104,9 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Chặn các file FBX lớn trong thư mục cụ thể
+/Assets/Model/OriginalPack/*.fbx
+
+# Hoặc chặn tất cả file FBX lớn (nếu cần)
+# *.fbx
